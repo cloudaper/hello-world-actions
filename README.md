@@ -1,4 +1,4 @@
-## Welcome to "Hello World" with GitHub Actions
+# Welcome to "Hello World" with GitHub Actions
 
 This course will walk you through the [developer documentation](https://developer.github.com/actions/creating-workflows/creating-a-new-workflow/) for creating a new workflow with GitHub Actions. 
 
